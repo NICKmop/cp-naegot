@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "801282505425",
+    "project_id": "naegot-9e987",
+    "storage_bucket": "naegot-9e987.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801282505425:android:9cd5f59e925a8061e963f0",
+        "android_client_info": {
+          "package_name": "com.yeon.naegot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801282505425-acn3tcvv2q6ftqo33iflfcbapsasvlef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yeon.naegot",
+            "certificate_hash": "8707dcd228a81292d960949edf42441c732e3353"
+          }
+        },
+        {
+          "client_id": "801282505425-ctt4ldiakc1atgqghm05atq8o2oaq45a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYFamTA_p9iZmkS2G-07P_WlhxzggFDA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801282505425-ctt4ldiakc1atgqghm05atq8o2oaq45a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "801282505425-r0m0tfpjq60998ivt3l6hvdqek3l15o7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yeon.naegot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
